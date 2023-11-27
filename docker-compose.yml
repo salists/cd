@@ -1,0 +1,5 @@
+version: "3"
+services:
+  cloudreve-slave-on-render:
+    image: ghcr.io/ssln5014/cloudreve-slave-on-render:0.1.1
+    container_name: cloudreve-slave-on-render
