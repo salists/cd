@@ -4,4 +4,4 @@ services:
     image: ghcr.io/ssln5014/cloudreve-slave-on-render:0.1.1
     container_name: cd
     ports:
-        - 5212:5212
+        - 3000:3000
