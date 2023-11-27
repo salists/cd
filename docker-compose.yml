@@ -1,6 +1,6 @@
 version: "3"
 services:
-  cloudreve-slave-on-render:
+  cd:
     image: ghcr.io/ssln5014/cloudreve-slave-on-render:0.1.1
     container_name: cd
     ports:
